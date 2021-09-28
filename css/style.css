@@ -1,0 +1,35 @@
+h1
+{
+font-weight: bold;
+font-family: Verdana;	
+}
+
+body
+{
+	
+	background-image: url('background_image.jpg');
+	background-color: #cccccc;
+	font-family: Verdana;
+	font-size: 20px;
+	color: black;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) 
+{
+  background-color: #f2f2f2;
+}
+
+tr:nth-child(odd)
+{
+background-color: Ivory;
+};
